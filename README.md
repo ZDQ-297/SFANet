@@ -7,4 +7,3 @@ The official code for paper "Spatial Frequency Aggregation Networks for UAV  Nig
 - Python 3.9  
 - PyTorch 2.3.1 + cu118
 - timm 1.0.12
-
