@@ -8,6 +8,7 @@ The official code for paper "Spatial Frequency Aggregation Networks for UAV  Nig
 - timm 1.0.12
 ## Dataset Description
 UAV (unmanned aerial vehicle) nighttime urban lighting scene (UNULS) dataset that serves the scene classification task, which contains 18 common nighttime urban lighting scene categories. 
+![UNULS示意图](images/UNULS.png)
 
 the datasets are under technical reviewing and will be available soon.
 ## Training
